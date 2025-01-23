@@ -25,7 +25,7 @@ pip install pandas scikit-learn
 ### 1. Clone this Repository:
 ```bash
 git clone https://github.com/sanjushri777/FAKE-NEWS-prediction-ML-.git
-cd fake-news-detection
+cd FAKE-NEWS-prediction-ML-
 ```
 
 ### 2. Prepare the Dataset:
