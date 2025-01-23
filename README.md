@@ -1,6 +1,4 @@
-Here’s a **README.md** template for your Fake News Detection ML project:
 
----
 
 # **Fake News Detection using Machine Learning**
 
@@ -79,6 +77,3 @@ The program will prompt you to enter a news article or headline to check if it's
 ## **License**:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to adjust this **README.md** for your project needs! You can copy and paste the above content into a `README.md` file in your project directory. 😊
